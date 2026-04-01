@@ -33,12 +33,6 @@ export const PLUGINS: {
     type: "plugin",
   },
   {
-    execNames: ["Unity Hub.app", "Unity.app", "Unity Hub.exe", "Unity.exe"],
-    bundleIds: ["com.unity3d.unityhub"],
-    url: "https://wakatime.com/unity",
-    type: "plugin",
-  },
-  {
     execNames: ["TextMate.app"],
     bundleIds: ["com.macromates.TextMate"],
     url: "https://wakatime.com/textmate",
